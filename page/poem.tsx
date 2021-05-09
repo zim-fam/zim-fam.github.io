@@ -60,7 +60,7 @@ function Poem({ fillins, subject }: poem_props) {
             </Paragraph>
 
             <Paragraph>
-                All cause I've you by my side.
+                All cause I have you by my side.
             </Paragraph>
 
             <Paragraph>
