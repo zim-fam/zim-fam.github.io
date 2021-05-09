@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/zim-fam/static/js/app.0fdc8860.chunk.js",
+    "app.js.map": "/zim-fam/static/js/app.0fdc8860.chunk.js.map",
+    "runtime~app.js": "/zim-fam/static/js/runtime~app.cffe4225.js",
+    "runtime~app.js.map": "/zim-fam/static/js/runtime~app.cffe4225.js.map",
+    "static/js/2.d5ded926.chunk.js": "/zim-fam/static/js/2.d5ded926.chunk.js",
+    "static/js/2.d5ded926.chunk.js.map": "/zim-fam/static/js/2.d5ded926.chunk.js.map",
+    "favicon-16.png": "/zim-fam/favicon-16.png",
+    "favicon-32.png": "/zim-fam/favicon-32.png",
+    "favicon.ico": "/zim-fam/favicon.ico",
+    "index.html": "/zim-fam/index.html",
+    "manifest.json": "/zim-fam/manifest.json",
+    "serve.json": "/zim-fam/serve.json",
+    "static/js/2.d5ded926.chunk.js.LICENSE.txt": "/zim-fam/static/js/2.d5ded926.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.cffe4225.js",
+    "static/js/2.d5ded926.chunk.js",
+    "static/js/app.0fdc8860.chunk.js"
+  ]
+}
