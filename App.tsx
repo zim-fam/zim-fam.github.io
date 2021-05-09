@@ -2,12 +2,11 @@ import * as React from 'react';
 import { View, Text } from 'react-native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { NavigationContainer } from '@react-navigation/native';
+import { Homepage } from './page/homepage';
+
 
 const Stack = createStackNavigator();
 
-function Home() {
-  return <Text>Homepage</Text>
-}
 
 export default function App() {
   return (
@@ -15,7 +14,7 @@ export default function App() {
       <Stack.Navigator
         headerMode='none'
       >
-        <Stack.Screen name="Home" component={Home} />
+        <Stack.Screen name="Home" component={Homepage} />
       </Stack.Navigator>
     </NavigationContainer>
   );
